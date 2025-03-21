@@ -1,0 +1,3541 @@
+{
+  "title": "GR-55 Patch List",
+  "mode": "GUITAR MODE",
+  "sounds": [
+    {
+      "style": "LEAD",
+      "patches": [
+        {
+          "patch_no": "01-1",
+          "patch_name": "Metal Synth Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "477"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "548"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "01-2",
+          "patch_name": "Rock Lead Organ",
+          "pcm_tone1": {
+            "category": "E.Organ",
+            "tone_no": "062"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "22"
+          }
+        },
+        {
+          "patch_no": "01-3",
+          "patch_name": "GR-300 Ctl:+1Oct",
+          "pcm_tone1": {
+            "category": null,
+            "tone_no": null
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "02-1",
+          "patch_name": "Nice Tenor",
+          "pcm_tone1": {
+            "category": "Sax",
+            "tone_no": "407"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "02-2",
+          "patch_name": "Flute Solo",
+          "pcm_tone1": {
+            "category": "Flute",
+            "tone_no": "393"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "02-3",
+          "patch_name": "Jazz Guitar Vibe",
+          "pcm_tone1": {
+            "category": "Mallet",
+            "tone_no": "143"
+          },
+          "pcm_tone2": {
+            "category": "Mallet",
+            "tone_no": "142"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "10"
+          }
+        },
+        {
+          "patch_no": "03-1",
+          "patch_name": "Legato Solo",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "821"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "03-2",
+          "patch_name": "SlowAttack Solo",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "524"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "524"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "03-3",
+          "patch_name": "Synth Brass Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "453"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "524"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "23"
+          }
+        },
+        {
+          "patch_no": "04-1",
+          "patch_name": "Drive Blues Harp",
+          "pcm_tone1": {
+            "category": "Harmonica",
+            "tone_no": "119"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "04-2",
+          "patch_name": "Tp Section",
+          "pcm_tone1": {
+            "category": "Ensemble Brass",
+            "tone_no": "379"
+          },
+          "pcm_tone2": {
+            "category": "Solo Brass",
+            "tone_no": "370"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "04-3",
+          "patch_name": "MELLOW CELLO",
+          "pcm_tone1": {
+            "category": "Solo Strings",
+            "tone_no": "339"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "05-1",
+          "patch_name": "Strange Whistle",
+          "pcm_tone1": {
+            "category": "Recorder",
+            "tone_no": "414"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "05-2",
+          "patch_name": "EMOTIONAL LEAD",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "446"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "05-3",
+          "patch_name": "WAVE SYNTH SOLO",
+          "pcm_tone1": {
+            "category": null,
+            "tone_no": null
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "19"
+          }
+        },
+        {
+          "patch_no": "06-1",
+          "patch_name": "Dual Sync Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "486"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "486"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "06-2",
+          "patch_name": "Funky Syn Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "466"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "467"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "06-3",
+          "patch_name": "SqrPipe For You",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "527"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "527"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "07-1",
+          "patch_name": "Concert Grand",
+          "pcm_tone1": {
+            "category": "Ac.Piano",
+            "tone_no": "002"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "07-2",
+          "patch_name": "Mute Trumpet/EXP",
+          "pcm_tone1": {
+            "category": "Solo Brass",
+            "tone_no": "377"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "07-3",
+          "patch_name": "Epf + 335 Unison",
+          "pcm_tone1": {
+            "category": "E.Piano1",
+            "tone_no": "035"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "09"
+          }
+        },
+        {
+          "patch_no": "08-1",
+          "patch_name": "P90 & Organ Bell",
+          "pcm_tone1": {
+            "category": "E.Organ",
+            "tone_no": "082"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "06"
+          }
+        },
+        {
+          "patch_no": "08-2",
+          "patch_name": "Feedback Guitar",
+          "pcm_tone1": {
+            "category": "E.Guitar",
+            "tone_no": "193"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "08-3",
+          "patch_name": "CTL=DLY/EXP=WAH",
+          "pcm_tone1": {
+            "category": null,
+            "tone_no": null
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "09-1",
+          "patch_name": "More Blacklord",
+          "pcm_tone1": {
+            "category": "E.Organ",
+            "tone_no": "060"
+          },
+          "pcm_tone2": {
+            "category": "E.Organ",
+            "tone_no": "065"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "09-2",
+          "patch_name": "Pdl Bend Guitar",
+          "pcm_tone1": {
+            "category": null,
+            "tone_no": null
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "09-3",
+          "patch_name": "POLY DISTOTION",
+          "pcm_tone1": {
+            "category": null,
+            "tone_no": null
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "19"
+          }
+        },
+        {
+          "patch_no": "10-1",
+          "patch_name": "NaturalResoLead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "560"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "501"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "10-2",
+          "patch_name": "Organ Syn Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "554"
+          },
+          "pcm_tone2": {
+            "category": "E.Organ",
+            "tone_no": "087"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "22"
+          }
+        },
+        {
+          "patch_no": "10-3",
+          "patch_name": "Crims-O-Tron",
+          "pcm_tone1": {
+            "category": "E.Bass",
+            "tone_no": "215"
+          },
+          "pcm_tone2": {
+            "category": "Vox/Choir",
+            "tone_no": "418"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "11-1",
+          "patch_name": "Dist Sync Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "488"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "548"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "11-2",
+          "patch_name": "5th Layer",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "469"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "465"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "11-3",
+          "patch_name": "Screamin Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "460"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "12-1",
+          "patch_name": "Portamento Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "471"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "471"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "19"
+          }
+        },
+        {
+          "patch_no": "12-2",
+          "patch_name": "Dist Sine Solo",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "524"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "524"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "12-3",
+          "patch_name": "Dist Square Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "536"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "535"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "13-1",
+          "patch_name": "Buzz Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "476"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "538"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "13-2",
+          "patch_name": "METAL SAW LEAD",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "447"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "13-3",
+          "patch_name": "BrassyLead",
+          "pcm_tone1": {
+            "category": "Sax",
+            "tone_no": "406"
+          },
+          "pcm_tone2": {
+            "category": "Synth Brass",
+            "tone_no": "590"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "23"
+          }
+        },
+        {
+          "patch_no": "14-1",
+          "patch_name": "LONG ECHO LEAD",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "471"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "14-2",
+          "patch_name": "RockyOrgan",
+          "pcm_tone1": {
+            "category": "E.Organ",
+            "tone_no": "084"
+          },
+          "pcm_tone2": {
+            "category": "E.Organ",
+            "tone_no": "087"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "22"
+          }
+        },
+        {
+          "patch_no": "14-3",
+          "patch_name": "MILD SAW LEAD",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "523"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "15-1",
+          "patch_name": "Simple Square",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "533"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "15-2",
+          "patch_name": "+1oct Mild Lead",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "533"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "15-3",
+          "patch_name": "Unison Lead",
+          "pcm_tone1": {
+            "category": "Dist.Guitar",
+            "tone_no": "201"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "16-1",
+          "patch_name": "Lead Beast",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "455"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "456"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "19"
+          }
+        },
+        {
+          "patch_no": "16-2",
+          "patch_name": "Dream Bell",
+          "pcm_tone1": {
+            "category": "Vox/Choir",
+            "tone_no": "416"
+          },
+          "pcm_tone2": {
+            "category": "Mallet",
+            "tone_no": "156"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "11"
+          }
+        },
+        {
+          "patch_no": "16-3",
+          "patch_name": "Female Chorus",
+          "pcm_tone1": {
+            "category": "Synth Bellpad",
+            "tone_no": "693"
+          },
+          "pcm_tone2": {
+            "category": "Vox/Choir",
+            "tone_no": "435"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "17-1",
+          "patch_name": "70s Unison",
+          "pcm_tone1": {
+            "category": "Dist.Guitar",
+            "tone_no": "199"
+          },
+          "pcm_tone2": {
+            "category": "Dist.Guitar",
+            "tone_no": "199"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "17-2",
+          "patch_name": "Comfortable Solo",
+          "pcm_tone1": {
+            "category": null,
+            "tone_no": null
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "17-3",
+          "patch_name": "Wah Feedback",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "524"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "524"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "18-1",
+          "patch_name": "Gtr+Organ Unison",
+          "pcm_tone1": {
+            "category": "E.Organ",
+            "tone_no": "060"
+          },
+          "pcm_tone2": {
+            "category": "E.Organ",
+            "tone_no": "060"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "18-2",
+          "patch_name": "Vibraphone",
+          "pcm_tone1": {
+            "category": "Mallet",
+            "tone_no": "152"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "18-3",
+          "patch_name": "Dark Trumpet",
+          "pcm_tone1": {
+            "category": "Solo Brass",
+            "tone_no": "371"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "19-1",
+          "patch_name": "High Note Tp",
+          "pcm_tone1": {
+            "category": "Solo Brass",
+            "tone_no": "370"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "19-2",
+          "patch_name": "Fat Brass Sec",
+          "pcm_tone1": {
+            "category": "Ensemble Brass",
+            "tone_no": "380"
+          },
+          "pcm_tone2": {
+            "category": "Ensemble Brass",
+            "tone_no": "384"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "19-3",
+          "patch_name": "Solo Fr.Horn",
+          "pcm_tone1": {
+            "category": "Solo Brass",
+            "tone_no": "369"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "20-1",
+          "patch_name": "SGT Fr Horn",
+          "pcm_tone1": {
+            "category": "Ensemble Brass",
+            "tone_no": "383"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "20-2",
+          "patch_name": "Solo Trombone",
+          "pcm_tone1": {
+            "category": "Solo Brass",
+            "tone_no": "372"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "20-3",
+          "patch_name": "Super Low Brass",
+          "pcm_tone1": {
+            "category": "Solo Brass",
+            "tone_no": "375"
+          },
+          "pcm_tone2": {
+            "category": "Orchestral",
+            "tone_no": "365"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "21-1",
+          "patch_name": "Clarinet>EXP Vib",
+          "pcm_tone1": {
+            "category": "Wind",
+            "tone_no": "390"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "21-2",
+          "patch_name": "Oboe",
+          "pcm_tone1": {
+            "category": "Wind",
+            "tone_no": "387"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "21-3",
+          "patch_name": "Soprano Sax",
+          "pcm_tone1": {
+            "category": "Sax",
+            "tone_no": "405"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "22-1",
+          "patch_name": "Alto Sax",
+          "pcm_tone1": {
+            "category": "Sax",
+            "tone_no": "409"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "22-2",
+          "patch_name": "Moody Sax",
+          "pcm_tone1": {
+            "category": "Sax",
+            "tone_no": "406"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "22-3",
+          "patch_name": "Guitar+SaxUnison",
+          "pcm_tone1": {
+            "category": "Sax",
+            "tone_no": "410"
+          },
+          "pcm_tone2": {
+            "category": "Sax",
+            "tone_no": "411"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "09"
+          }
+        },
+        {
+          "patch_no": "23-1",
+          "patch_name": "Flute+Gtr Unison",
+          "pcm_tone1": {
+            "category": "Flute",
+            "tone_no": "399"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "10"
+          }
+        },
+        {
+          "patch_no": "23-2",
+          "patch_name": "Pan Flute",
+          "pcm_tone1": {
+            "category": "Flute",
+            "tone_no": "397"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "23-3",
+          "patch_name": "Piccolo",
+          "pcm_tone1": {
+            "category": "Flute",
+            "tone_no": "398"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "24-1",
+          "patch_name": "Flutey GT",
+          "pcm_tone1": {
+            "category": "Flute",
+            "tone_no": "401"
+          },
+          "pcm_tone2": {
+            "category": "Flute",
+            "tone_no": "403"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "24-2",
+          "patch_name": "Heaven Ocarina",
+          "pcm_tone1": {
+            "category": "Recorder",
+            "tone_no": "412"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "24-3",
+          "patch_name": "LofiFlute&Glockn",
+          "pcm_tone1": {
+            "category": "Mallet",
+            "tone_no": "156"
+          },
+          "pcm_tone2": {
+            "category": "Flute",
+            "tone_no": "399"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "25-1",
+          "patch_name": "Recorder",
+          "pcm_tone1": {
+            "category": "Recorder",
+            "tone_no": "413"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "25-2",
+          "patch_name": "Chromatic Harmo",
+          "pcm_tone1": {
+            "category": "Harmonica",
+            "tone_no": "118"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "25-3",
+          "patch_name": "FILTER HARP",
+          "pcm_tone1": {
+            "category": "Harmonica",
+            "tone_no": "118"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "26-1",
+          "patch_name": "Gt + HARMONICA",
+          "pcm_tone1": {
+            "category": "Harmonica",
+            "tone_no": "118"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "09"
+          }
+        },
+        {
+          "patch_no": "26-2",
+          "patch_name": "Heavy Harmonica",
+          "pcm_tone1": {
+            "category": "Recorder",
+            "tone_no": "415"
+          },
+          "pcm_tone2": {
+            "category": "Harmonica",
+            "tone_no": "118"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "26-3",
+          "patch_name": "LEAD VIOLIN",
+          "pcm_tone1": {
+            "category": "Solo Strings",
+            "tone_no": "333"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "27-1",
+          "patch_name": "DIST VIOLIN",
+          "pcm_tone1": {
+            "category": "Solo Strings",
+            "tone_no": "333"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "27-2",
+          "patch_name": "DRIVE+VLN+CELLO",
+          "pcm_tone1": {
+            "category": "Solo Strings",
+            "tone_no": "337"
+          },
+          "pcm_tone2": {
+            "category": "Solo Strings",
+            "tone_no": "339"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "27-3",
+          "patch_name": "DOUBLE CELLO",
+          "pcm_tone1": {
+            "category": "Solo Strings",
+            "tone_no": "339"
+          },
+          "pcm_tone2": {
+            "category": "Solo Strings",
+            "tone_no": "339"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "28-1",
+          "patch_name": "GLASS CELLO",
+          "pcm_tone1": {
+            "category": "Solo Strings",
+            "tone_no": "339"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "681"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "28-2",
+          "patch_name": "OVERDRIVE+CELLO",
+          "pcm_tone1": {
+            "category": "Solo Strings",
+            "tone_no": "339"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "09"
+          }
+        },
+        {
+          "patch_no": "28-3",
+          "patch_name": "SMOOTH LEAD+VLN",
+          "pcm_tone1": {
+            "category": "Solo Strings",
+            "tone_no": "336"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "09"
+          }
+        },
+        {
+          "patch_no": "29-1",
+          "patch_name": "Brass + Drive",
+          "pcm_tone1": {
+            "category": "Ensemble Brass",
+            "tone_no": "379"
+          },
+          "pcm_tone2": {
+            "category": "Sax",
+            "tone_no": "411"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "29-2",
+          "patch_name": "Organ,Pf & OD Gt",
+          "pcm_tone1": {
+            "category": "E.Organ",
+            "tone_no": "060"
+          },
+          "pcm_tone2": {
+            "category": "Ac.Piano",
+            "tone_no": "003"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "06"
+          }
+        },
+        {
+          "patch_no": "29-3",
+          "patch_name": "Shamisen",
+          "pcm_tone1": {
+            "category": "Plucked/Stroke",
+            "tone_no": "329"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "30-1",
+          "patch_name": "for Normal PU L1",
+          "pcm_tone1": {
+            "category": "Pipe Organ",
+            "tone_no": "094"
+          },
+          "pcm_tone2": {
+            "category": "E.Organ",
+            "tone_no": "080"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "20"
+          }
+        },
+        {
+          "patch_no": "30-2",
+          "patch_name": "for Normal PU L2",
+          "pcm_tone1": {
+            "category": "Sax",
+            "tone_no": "406"
+          },
+          "pcm_tone2": {
+            "category": "Synth Bass",
+            "tone_no": "280"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "30-3",
+          "patch_name": "for Normal PU L3",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "486"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "535"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "23"
+          }
+        }
+      ]
+    },
+    {
+      "style": "RHYTHM",
+      "patches": [
+        {
+          "patch_no": "01-1",
+          "patch_name": "12st AG & Ch Org",
+          "pcm_tone1": {
+            "category": "Pipe Organ",
+            "tone_no": "095"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "11"
+          }
+        },
+        {
+          "patch_no": "18-1",
+          "patch_name": "Simple Clavi",
+          "pcm_tone1": {
+            "category": "Clav",
+            "tone_no": "103"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "18-2",
+          "patch_name": "R12st+Clavi+Xylo",
+          "pcm_tone1": {
+            "category": "Clav",
+            "tone_no": "104"
+          },
+          "pcm_tone2": {
+            "category": "Mallet",
+            "tone_no": "161"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "08"
+          }
+        },
+        {
+          "patch_no": "18-3",
+          "patch_name": "Harpsichord CTL",
+          "pcm_tone1": {
+            "category": "Harpsichord",
+            "tone_no": "098"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "19-1",
+          "patch_name": "Celesta",
+          "pcm_tone1": {
+            "category": "Celesta",
+            "tone_no": "111"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "19-2",
+          "patch_name": "Accordion",
+          "pcm_tone1": {
+            "category": "Accordion",
+            "tone_no": "112"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "19-3",
+          "patch_name": "Bell&Mallet+(Bs)",
+          "pcm_tone1": {
+            "category": "Bell",
+            "tone_no": "139"
+          },
+          "pcm_tone2": {
+            "category": "Mallet",
+            "tone_no": "145"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "20-1",
+          "patch_name": "TE+FM Bell Pad",
+          "pcm_tone1": {
+            "category": "Bell",
+            "tone_no": "121"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "613"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "04"
+          }
+        },
+        {
+          "patch_no": "20-2",
+          "patch_name": "Marimba",
+          "pcm_tone1": {
+            "category": "Mallet",
+            "tone_no": "146"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "20-3",
+          "patch_name": "SteelDrums/Ethno",
+          "pcm_tone1": {
+            "category": "Mallet",
+            "tone_no": "147"
+          },
+          "pcm_tone2": {
+            "category": "Mallet",
+            "tone_no": "150"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "21"
+          }
+        },
+        {
+          "patch_no": "21-1",
+          "patch_name": "Voice Pad SL",
+          "pcm_tone1": {
+            "category": "Vox/Choir",
+            "tone_no": "420"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "662"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "20"
+          }
+        },
+        {
+          "patch_no": "21-2",
+          "patch_name": "AG+Voice",
+          "pcm_tone1": {
+            "category": "Vox/Choir",
+            "tone_no": "419"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "11"
+          }
+        },
+        {
+          "patch_no": "21-3",
+          "patch_name": "Rotary G & Pad",
+          "pcm_tone1": {
+            "category": "Vox/Choir",
+            "tone_no": "426"
+          },
+          "pcm_tone2": {
+            "category": "Synth Bass",
+            "tone_no": "229"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "06"
+          }
+        },
+        {
+          "patch_no": "22-1",
+          "patch_name": "Gt & Vo Unison",
+          "pcm_tone1": {
+            "category": "Vox/Choir",
+            "tone_no": "438"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "10"
+          }
+        },
+        {
+          "patch_no": "22-2",
+          "patch_name": "Vox+Pf+Crystal",
+          "pcm_tone1": {
+            "category": "Vox/Choir",
+            "tone_no": "417"
+          },
+          "pcm_tone2": {
+            "category": "Pop Piano",
+            "tone_no": "017"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "21"
+          }
+        },
+        {
+          "patch_no": "22-3",
+          "patch_name": "Crunch & Voice",
+          "pcm_tone1": {
+            "category": "Vox/Choir",
+            "tone_no": "430"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "799"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "04"
+          }
+        },
+        {
+          "patch_no": "23-1",
+          "patch_name": "80s Stack Piano",
+          "pcm_tone1": {
+            "category": "Pop Piano",
+            "tone_no": "017"
+          },
+          "pcm_tone2": {
+            "category": "Synth Brass",
+            "tone_no": "569"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "20"
+          }
+        },
+        {
+          "patch_no": "23-2",
+          "patch_name": "Like 60s",
+          "pcm_tone1": {
+            "category": "E.Organ",
+            "tone_no": "072"
+          },
+          "pcm_tone2": {
+            "category": "E.Organ",
+            "tone_no": "061"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "23-3",
+          "patch_name": "Reed Organ(+LP)",
+          "pcm_tone1": {
+            "category": "Reed Organ",
+            "tone_no": "097"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "24-1",
+          "patch_name": "Full Section",
+          "pcm_tone1": {
+            "category": "Ensemble Brass",
+            "tone_no": "382"
+          },
+          "pcm_tone2": {
+            "category": "Sax",
+            "tone_no": "411"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "24-2",
+          "patch_name": "Real & Syn Brass",
+          "pcm_tone1": {
+            "category": "Ensemble Brass",
+            "tone_no": "379"
+          },
+          "pcm_tone2": {
+            "category": "Synth Brass",
+            "tone_no": "605"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "24-3",
+          "patch_name": "Edge Brass",
+          "pcm_tone1": {
+            "category": "Ensemble Brass",
+            "tone_no": "381"
+          },
+          "pcm_tone2": {
+            "category": "Ensemble Brass",
+            "tone_no": "379"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "25-1",
+          "patch_name": "ORCHESTRA",
+          "pcm_tone1": {
+            "category": "Orchestral",
+            "tone_no": "367"
+          },
+          "pcm_tone2": {
+            "category": "Orchestral",
+            "tone_no": "367"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "25-2",
+          "patch_name": "PIZZICATO Gt",
+          "pcm_tone1": {
+            "category": "Ensemble Strings",
+            "tone_no": "360"
+          },
+          "pcm_tone2": {
+            "category": "Ensemble Strings",
+            "tone_no": "361"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "25-3",
+          "patch_name": "FLANGE STRINGS",
+          "pcm_tone1": {
+            "category": "Ensemble Strings",
+            "tone_no": "344"
+          },
+          "pcm_tone2": {
+            "category": "Solo Strings",
+            "tone_no": "340"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "26-1",
+          "patch_name": "PHASE STRINGS",
+          "pcm_tone1": {
+            "category": "Ensemble Strings",
+            "tone_no": "346"
+          },
+          "pcm_tone2": {
+            "category": "Ensemble Strings",
+            "tone_no": "358"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "26-2",
+          "patch_name": "SynthBrass",
+          "pcm_tone1": {
+            "category": "Synth Brass",
+            "tone_no": "597"
+          },
+          "pcm_tone2": {
+            "category": "Ensemble Brass",
+            "tone_no": "380"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "26-3",
+          "patch_name": "BLADE RUNNING",
+          "pcm_tone1": {
+            "category": "Synth Brass",
+            "tone_no": "575"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "27-1",
+          "patch_name": "Seychelles Tour",
+          "pcm_tone1": {
+            "category": "Vox/Choir",
+            "tone_no": "443"
+          },
+          "pcm_tone2": {
+            "category": "Sound FX",
+            "tone_no": "863"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "27-2",
+          "patch_name": "EmotionalBallad",
+          "pcm_tone1": {
+            "category": "E.Piano1",
+            "tone_no": "042"
+          },
+          "pcm_tone2": {
+            "category": "E.Piano2",
+            "tone_no": "053"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "09"
+          }
+        },
+        {
+          "patch_no": "27-3",
+          "patch_name": "Analog Voice Pad",
+          "pcm_tone1": {
+            "category": "E.Bass",
+            "tone_no": "215"
+          },
+          "pcm_tone2": {
+            "category": "Vox/Choir",
+            "tone_no": "418"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "28-1",
+          "patch_name": "-2 Tubular & LP",
+          "pcm_tone1": {
+            "category": "Bell",
+            "tone_no": "136"
+          },
+          "pcm_tone2": {
+            "category": "Pipe Organ",
+            "tone_no": "095"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "28-2",
+          "patch_name": "Bridge of Sy's",
+          "pcm_tone1": {
+            "category": "E.Piano1",
+            "tone_no": "042"
+          },
+          "pcm_tone2": {
+            "category": "Synth FX",
+            "tone_no": "765"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "28-3",
+          "patch_name": "Faded Cherry",
+          "pcm_tone1": {
+            "category": "E.Guitar",
+            "tone_no": "190"
+          },
+          "pcm_tone2": {
+            "category": "Mallet",
+            "tone_no": "159"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "12"
+          }
+        },
+        {
+          "patch_no": "29-1",
+          "patch_name": "Acid Bass",
+          "pcm_tone1": {
+            "category": "Synth Bass",
+            "tone_no": "308"
+          },
+          "pcm_tone2": {
+            "category": "Synth Bass",
+            "tone_no": "308"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "23"
+          }
+        },
+        {
+          "patch_no": "29-2",
+          "patch_name": "Acoustic Bass",
+          "pcm_tone1": {
+            "category": "Ac.Bass",
+            "tone_no": "210"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "11"
+          }
+        },
+        {
+          "patch_no": "29-3",
+          "patch_name": "Heavy P-Funk BS",
+          "pcm_tone1": {
+            "category": "Synth Bass",
+            "tone_no": "242"
+          },
+          "pcm_tone2": {
+            "category": "Plucked/Stroke",
+            "tone_no": "328"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "30-1",
+          "patch_name": "for Normal PU R1",
+          "pcm_tone1": {
+            "category": "Synth Bellpad",
+            "tone_no": "693"
+          },
+          "pcm_tone2": {
+            "category": "Ensemble Strings",
+            "tone_no": "345"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "11"
+          }
+        },
+        {
+          "patch_no": "30-2",
+          "patch_name": "for Normal PU R2",
+          "pcm_tone1": {
+            "category": "Synth Brass",
+            "tone_no": "569"
+          },
+          "pcm_tone2": {
+            "category": "E.Organ",
+            "tone_no": "088"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "11"
+          }
+        },
+        {
+          "patch_no": "30-3",
+          "patch_name": "for Normal PU R3",
+          "pcm_tone1": {
+            "category": "Ensemble Strings",
+            "tone_no": "362"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "627"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "19"
+          }
+        }
+      ]
+    },
+    {
+      "style": "OTHER",
+      "patches": [
+        {
+          "patch_no": "01-1",
+          "patch_name": "Ultimate Pulse",
+          "pcm_tone1": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "612"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "824"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "01-2",
+          "patch_name": "Heavy Hit&Groove",
+          "pcm_tone1": {
+            "category": "Hit",
+            "tone_no": "843"
+          },
+          "pcm_tone2": {
+            "category": "Beat&Groove",
+            "tone_no": "835"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "01-3",
+          "patch_name": "Jazz Trio",
+          "pcm_tone1": {
+            "category": "Percussion",
+            "tone_no": "884"
+          },
+          "pcm_tone2": {
+            "category": "Ac.Bass",
+            "tone_no": "212"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "10"
+          }
+        },
+        {
+          "patch_no": "02-1",
+          "patch_name": "Seq*Tempo Dly+EG",
+          "pcm_tone1": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "615"
+          },
+          "pcm_tone2": {
+            "category": "Synth Seq/Pop",
+            "tone_no": "788"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "02-2",
+          "patch_name": "DarkSideOfTheSun",
+          "pcm_tone1": {
+            "category": "Bell",
+            "tone_no": "128"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "669"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "02-3",
+          "patch_name": "KOTO DREAMS",
+          "pcm_tone1": {
+            "category": "Plucked/Stroke",
+            "tone_no": "330"
+          },
+          "pcm_tone2": {
+            "category": "Synth PolyKey",
+            "tone_no": "726"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "03-1",
+          "patch_name": "Voice Hit",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "825"
+          },
+          "pcm_tone2": {
+            "category": "Hit",
+            "tone_no": "844"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "04"
+          }
+        },
+        {
+          "patch_no": "03-2",
+          "patch_name": "Heavens Bells",
+          "pcm_tone1": {
+            "category": "Bell",
+            "tone_no": "129"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "666"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "08"
+          }
+        },
+        {
+          "patch_no": "03-3",
+          "patch_name": "Sine Air Bend",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "549"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "549"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "04-1",
+          "patch_name": "Question+Answer",
+          "pcm_tone1": {
+            "category": "Plucked/Stroke",
+            "tone_no": "318"
+          },
+          "pcm_tone2": {
+            "category": "E.Grand Piano",
+            "tone_no": "020"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "04-2",
+          "patch_name": "Metamorphosis",
+          "pcm_tone1": {
+            "category": "Synth FX",
+            "tone_no": "775"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "797"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "21"
+          }
+        },
+        {
+          "patch_no": "04-3",
+          "patch_name": "HighlanderGTR",
+          "pcm_tone1": {
+            "category": "Synth Bellpad",
+            "tone_no": "704"
+          },
+          "pcm_tone2": {
+            "category": "Wind",
+            "tone_no": "391"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "15"
+          }
+        },
+        {
+          "patch_no": "05-1",
+          "patch_name": "Sitar Fantasy",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "553"
+          },
+          "pcm_tone2": {
+            "category": "Ensemble Strings",
+            "tone_no": "355"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "13"
+          }
+        },
+        {
+          "patch_no": "05-2",
+          "patch_name": "GR-300 Triplet",
+          "pcm_tone1": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "675"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "684"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "05-3",
+          "patch_name": "Noize Mix Drive",
+          "pcm_tone1": {
+            "category": "Synth FX",
+            "tone_no": "764"
+          },
+          "pcm_tone2": {
+            "category": "Synth FX",
+            "tone_no": "760"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "06-1",
+          "patch_name": "Scat & Guitar",
+          "pcm_tone1": {
+            "category": "Scat",
+            "tone_no": "444"
+          },
+          "pcm_tone2": {
+            "category": "E.Piano1",
+            "tone_no": "034"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "10"
+          }
+        },
+        {
+          "patch_no": "06-2",
+          "patch_name": "SE Pad & LP+MS",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "825"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "640"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "06-3",
+          "patch_name": "DancingAcoustic",
+          "pcm_tone1": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "692"
+          },
+          "pcm_tone2": {
+            "category": "Ac.Guitar",
+            "tone_no": "173"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "11"
+          }
+        },
+        {
+          "patch_no": "07-1",
+          "patch_name": "Heavy Pulse",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "553"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "538"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "07-2",
+          "patch_name": "NEW WAVES",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "492"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "07-3",
+          "patch_name": "FourthOfFifth",
+          "pcm_tone1": {
+            "category": "Synth PolyKey",
+            "tone_no": "735"
+          },
+          "pcm_tone2": {
+            "category": "Synth Bellpad",
+            "tone_no": "708"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "08-1",
+          "patch_name": "E Sitar& Dly Toy",
+          "pcm_tone1": {
+            "category": "Mallet",
+            "tone_no": "141"
+          },
+          "pcm_tone2": {
+            "category": null,
+            "tone_no": null
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "13"
+          }
+        },
+        {
+          "patch_no": "08-2",
+          "patch_name": "Trio Concerto",
+          "pcm_tone1": {
+            "category": "Ac.Piano",
+            "tone_no": "002"
+          },
+          "pcm_tone2": {
+            "category": "Ensemble Strings",
+            "tone_no": "346"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "12"
+          }
+        },
+        {
+          "patch_no": "08-3",
+          "patch_name": "PARADISE LOST",
+          "pcm_tone1": {
+            "category": "Synth PolyKey",
+            "tone_no": "754"
+          },
+          "pcm_tone2": {
+            "category": "Synth Bellpad",
+            "tone_no": "708"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "09-1",
+          "patch_name": "Trademark Riff",
+          "pcm_tone1": {
+            "category": null,
+            "tone_no": null
+          },
+          "pcm_tone2": {
+            "category": "Synth FX",
+            "tone_no": "779"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "09-2",
+          "patch_name": "Touchy 5th",
+          "pcm_tone1": {
+            "category": "Synth PolyKey",
+            "tone_no": "735"
+          },
+          "pcm_tone2": {
+            "category": "E.Guitar",
+            "tone_no": "190"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "09"
+          }
+        },
+        {
+          "patch_no": "09-3",
+          "patch_name": "Scuba-Diving",
+          "pcm_tone1": {
+            "category": "Synth FX",
+            "tone_no": "779"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "798"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "23"
+          }
+        },
+        {
+          "patch_no": "10-1",
+          "patch_name": "Big Syn Drum",
+          "pcm_tone1": {
+            "category": "Percussion",
+            "tone_no": "893"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "633"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "10-2",
+          "patch_name": "Sequence Clean",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "812"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "620"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "10-3",
+          "patch_name": "Acoustic Heaven",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "815"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "610"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "11"
+          }
+        },
+        {
+          "patch_no": "11-1",
+          "patch_name": "SparkleBellGTR",
+          "pcm_tone1": {
+            "category": "Bell",
+            "tone_no": "128"
+          },
+          "pcm_tone2": {
+            "category": "Plucked/Stroke",
+            "tone_no": "324"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "11-2",
+          "patch_name": "Metal Timpani",
+          "pcm_tone1": {
+            "category": "Percussion",
+            "tone_no": "885"
+          },
+          "pcm_tone2": {
+            "category": "Percussion",
+            "tone_no": "885"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "11-3",
+          "patch_name": "Cheezy Movie",
+          "pcm_tone1": {
+            "category": "Hit",
+            "tone_no": "840"
+          },
+          "pcm_tone2": {
+            "category": "Orchestral",
+            "tone_no": "365"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "04"
+          }
+        },
+        {
+          "patch_no": "12-1",
+          "patch_name": "Stalker Violin",
+          "pcm_tone1": {
+            "category": "Solo Strings",
+            "tone_no": "333"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "681"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "08"
+          }
+        },
+        {
+          "patch_no": "12-2",
+          "patch_name": "OverblownClnGTR",
+          "pcm_tone1": {
+            "category": "Sax",
+            "tone_no": "409"
+          },
+          "pcm_tone2": {
+            "category": "Flute",
+            "tone_no": "401"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "10"
+          }
+        },
+        {
+          "patch_no": "12-3",
+          "patch_name": "MotionBuilder",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "823"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "809"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "13-1",
+          "patch_name": "Pulsing Bell+EG",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "811"
+          },
+          "pcm_tone2": {
+            "category": "Synth Bellpad",
+            "tone_no": "696"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "06"
+          }
+        },
+        {
+          "patch_no": "13-2",
+          "patch_name": "Flying Tremolo",
+          "pcm_tone1": {
+            "category": "Synth FX",
+            "tone_no": "775"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "803"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "09"
+          }
+        },
+        {
+          "patch_no": "13-3",
+          "patch_name": "Trance Organ",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "810"
+          },
+          "pcm_tone2": {
+            "category": "E.Piano1",
+            "tone_no": "038"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "22"
+          }
+        },
+        {
+          "patch_no": "14-1",
+          "patch_name": "Sequence Trio",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "812"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "814"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "14-2",
+          "patch_name": "Extreme FX",
+          "pcm_tone1": {
+            "category": "Sound FX",
+            "tone_no": "859"
+          },
+          "pcm_tone2": {
+            "category": "Sound FX",
+            "tone_no": "863"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "14-3",
+          "patch_name": "Rhythmic Pulse",
+          "pcm_tone1": {
+            "category": "Pulsating",
+            "tone_no": "808"
+          },
+          "pcm_tone2": {
+            "category": "E.Organ",
+            "tone_no": "063"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "15-1",
+          "patch_name": "Scared Score",
+          "pcm_tone1": {
+            "category": "Sound FX",
+            "tone_no": "863"
+          },
+          "pcm_tone2": {
+            "category": "Percussion",
+            "tone_no": "886"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "12"
+          }
+        },
+        {
+          "patch_no": "15-2",
+          "patch_name": "EasternFluteGT",
+          "pcm_tone1": {
+            "category": "Plucked/Stroke",
+            "tone_no": "327"
+          },
+          "pcm_tone2": {
+            "category": "Flute",
+            "tone_no": "394"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "13"
+          }
+        },
+        {
+          "patch_no": "15-3",
+          "patch_name": "Odd Guitar",
+          "pcm_tone1": {
+            "category": "Ac.Guitar",
+            "tone_no": "175"
+          },
+          "pcm_tone2": {
+            "category": "Plucked/Stroke",
+            "tone_no": "330"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "02"
+          }
+        },
+        {
+          "patch_no": "16-1",
+          "patch_name": "DissonantBeauty",
+          "pcm_tone1": {
+            "category": "E.Piano1",
+            "tone_no": "033"
+          },
+          "pcm_tone2": {
+            "category": "Plucked/Stroke",
+            "tone_no": "322"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "19"
+          }
+        },
+        {
+          "patch_no": "16-2",
+          "patch_name": "PluckdBaritoned",
+          "pcm_tone1": {
+            "category": null,
+            "tone_no": null
+          },
+          "pcm_tone2": {
+            "category": "Plucked/Stroke",
+            "tone_no": "325"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "04"
+          }
+        },
+        {
+          "patch_no": "16-3",
+          "patch_name": "GroovePusher",
+          "pcm_tone1": {
+            "category": "Beat&Groove",
+            "tone_no": "831"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "809"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "04"
+          }
+        },
+        {
+          "patch_no": "17-1",
+          "patch_name": "JazzEP/BassSplit",
+          "pcm_tone1": {
+            "category": "E.Piano2",
+            "tone_no": "055"
+          },
+          "pcm_tone2": {
+            "category": "Ac.Bass",
+            "tone_no": "210"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "10"
+          }
+        },
+        {
+          "patch_no": "17-2",
+          "patch_name": "Metal Scat",
+          "pcm_tone1": {
+            "category": "Scat",
+            "tone_no": "444"
+          },
+          "pcm_tone2": {
+            "category": "Scat",
+            "tone_no": "444"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "17-3",
+          "patch_name": "Quantum Physics",
+          "pcm_tone1": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "657"
+          },
+          "pcm_tone2": {
+            "category": "Vox/Choir",
+            "tone_no": "429"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "22"
+          }
+        },
+        {
+          "patch_no": "18-1",
+          "patch_name": "Enigmatic Rick",
+          "pcm_tone1": {
+            "category": "Synth FX",
+            "tone_no": "755"
+          },
+          "pcm_tone2": {
+            "category": "Synth FX",
+            "tone_no": "761"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "08"
+          }
+        },
+        {
+          "patch_no": "18-2",
+          "patch_name": "Euro Beat Slicer",
+          "pcm_tone1": {
+            "category": "Synth Bass",
+            "tone_no": "242"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "553"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "18-3",
+          "patch_name": "Fuzz Heaven",
+          "pcm_tone1": {
+            "category": "Synth PolyKey",
+            "tone_no": "754"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "797"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "19-1",
+          "patch_name": "Arabian Nights",
+          "pcm_tone1": {
+            "category": null,
+            "tone_no": null
+          },
+          "pcm_tone2": {
+            "category": "Plucked/Stroke",
+            "tone_no": "322"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "14"
+          }
+        },
+        {
+          "patch_no": "19-2",
+          "patch_name": "Morpheus",
+          "pcm_tone1": {
+            "category": "Bell",
+            "tone_no": "129"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "665"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "08"
+          }
+        },
+        {
+          "patch_no": "19-3",
+          "patch_name": "Unison+5thPower",
+          "pcm_tone1": {
+            "category": "Synth Seq/Pop",
+            "tone_no": "795"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "553"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "09"
+          }
+        },
+        {
+          "patch_no": "20-1",
+          "patch_name": "BassFluteSaxTrio",
+          "pcm_tone1": {
+            "category": "Sax",
+            "tone_no": "410"
+          },
+          "pcm_tone2": {
+            "category": "Flute",
+            "tone_no": "402"
+          },
+          "modeling_tone": {
+            "category": "E.BASS",
+            "tone_no": "17"
+          }
+        },
+        {
+          "patch_no": "20-2",
+          "patch_name": "Exorbitanz",
+          "pcm_tone1": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "652"
+          },
+          "pcm_tone2": {
+            "category": "Synth FX",
+            "tone_no": "757"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "14"
+          }
+        },
+        {
+          "patch_no": "20-3",
+          "patch_name": "Armageddon",
+          "pcm_tone1": {
+            "category": "Sound FX",
+            "tone_no": "850"
+          },
+          "pcm_tone2": {
+            "category": "Sound FX",
+            "tone_no": "849"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "21-1",
+          "patch_name": "Grinder",
+          "pcm_tone1": {
+            "category": "Bell",
+            "tone_no": "132"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "800"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "13"
+          }
+        },
+        {
+          "patch_no": "21-2",
+          "patch_name": "EmoCarillion",
+          "pcm_tone1": {
+            "category": "Ac.Guitar",
+            "tone_no": "169"
+          },
+          "pcm_tone2": {
+            "category": "Bell",
+            "tone_no": "138"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "21-3",
+          "patch_name": "Unbelievable",
+          "pcm_tone1": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "653"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "668"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "08"
+          }
+        },
+        {
+          "patch_no": "22-1",
+          "patch_name": "FAB 4 Together",
+          "pcm_tone1": {
+            "category": "E.Piano1",
+            "tone_no": "042"
+          },
+          "pcm_tone2": {
+            "category": "E.Piano2",
+            "tone_no": "056"
+          },
+          "modeling_tone": {
+            "category": "E.BASS",
+            "tone_no": "17"
+          }
+        },
+        {
+          "patch_no": "22-2",
+          "patch_name": "Esoteric Vibe",
+          "pcm_tone1": {
+            "category": "Plucked/Stroke",
+            "tone_no": "321"
+          },
+          "pcm_tone2": {
+            "category": "Mallet",
+            "tone_no": "152"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "06"
+          }
+        },
+        {
+          "patch_no": "22-3",
+          "patch_name": "Deja Vu Bass",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "542"
+          },
+          "pcm_tone2": {
+            "category": "Synth PolyKey",
+            "tone_no": "743"
+          },
+          "modeling_tone": {
+            "category": "E.BASS",
+            "tone_no": "16"
+          }
+        },
+        {
+          "patch_no": "23-1",
+          "patch_name": "GK Paradise",
+          "pcm_tone1": {
+            "category": "Synth FX",
+            "tone_no": "775"
+          },
+          "pcm_tone2": {
+            "category": "Synth PolyKey",
+            "tone_no": "726"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "13"
+          }
+        },
+        {
+          "patch_no": "23-2",
+          "patch_name": "Is Dis Fat?",
+          "pcm_tone1": {
+            "category": "Synth PolyKey",
+            "tone_no": "747"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "482"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "05"
+          }
+        },
+        {
+          "patch_no": "23-3",
+          "patch_name": "Gladiator",
+          "pcm_tone1": {
+            "category": "Percussion",
+            "tone_no": "885"
+          },
+          "pcm_tone2": {
+            "category": "Vox/Choir",
+            "tone_no": "425"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "24-1",
+          "patch_name": "SlowGearSynth",
+          "pcm_tone1": {
+            "category": "Bell",
+            "tone_no": "130"
+          },
+          "pcm_tone2": {
+            "category": "Ac.Guitar",
+            "tone_no": "174"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "04"
+          }
+        },
+        {
+          "patch_no": "24-2",
+          "patch_name": "Oxygen Lead",
+          "pcm_tone1": {
+            "category": "Plucked/Stroke",
+            "tone_no": "320"
+          },
+          "pcm_tone2": {
+            "category": "E.Piano1",
+            "tone_no": "035"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        },
+        {
+          "patch_no": "24-3",
+          "patch_name": "SteelPan + Agogo",
+          "pcm_tone1": {
+            "category": "Percussion",
+            "tone_no": "886"
+          },
+          "pcm_tone2": {
+            "category": "Mallet",
+            "tone_no": "147"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "25-1",
+          "patch_name": "GHOSTLY",
+          "pcm_tone1": {
+            "category": "Synth FX",
+            "tone_no": "783"
+          },
+          "pcm_tone2": {
+            "category": "Synth FX",
+            "tone_no": "783"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "01"
+          }
+        },
+        {
+          "patch_no": "25-2",
+          "patch_name": "SNEAKING UP",
+          "pcm_tone1": {
+            "category": "Ensemble Strings",
+            "tone_no": "353"
+          },
+          "pcm_tone2": {
+            "category": "Synth Pad/Strings",
+            "tone_no": "681"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "25-3",
+          "patch_name": "Big Ben",
+          "pcm_tone1": {
+            "category": "Plucked/Stroke",
+            "tone_no": "320"
+          },
+          "pcm_tone2": {
+            "category": "Bell",
+            "tone_no": "137"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "26-1",
+          "patch_name": "AggroClav",
+          "pcm_tone1": {
+            "category": "Reed Organ",
+            "tone_no": "096"
+          },
+          "pcm_tone2": {
+            "category": "Clav",
+            "tone_no": "106"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "20"
+          }
+        },
+        {
+          "patch_no": "26-2",
+          "patch_name": "Cinematic Art",
+          "pcm_tone1": {
+            "category": "Sound FX",
+            "tone_no": "863"
+          },
+          "pcm_tone2": {
+            "category": "Mallet",
+            "tone_no": "156"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "26-3",
+          "patch_name": "Strictly E",
+          "pcm_tone1": {
+            "category": "Mallet",
+            "tone_no": "142"
+          },
+          "pcm_tone2": {
+            "category": "Synth Lead",
+            "tone_no": "492"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "06"
+          }
+        },
+        {
+          "patch_no": "27-1",
+          "patch_name": "Beat Provider",
+          "pcm_tone1": {
+            "category": "Beat&Groove",
+            "tone_no": "830"
+          },
+          "pcm_tone2": {
+            "category": "Beat&Groove",
+            "tone_no": "829"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "27-2",
+          "patch_name": "Shanai+Rhythm",
+          "pcm_tone1": {
+            "category": "Wind",
+            "tone_no": "392"
+          },
+          "pcm_tone2": {
+            "category": "Beat&Groove",
+            "tone_no": "834"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "27-3",
+          "patch_name": "BackToDaCrib",
+          "pcm_tone1": {
+            "category": "Beat&Groove",
+            "tone_no": "839"
+          },
+          "pcm_tone2": {
+            "category": "Beat&Groove",
+            "tone_no": "838"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "23"
+          }
+        },
+        {
+          "patch_no": "28-1",
+          "patch_name": "Hyper TE Beat",
+          "pcm_tone1": {
+            "category": "Sound FX",
+            "tone_no": "851"
+          },
+          "pcm_tone2": {
+            "category": "Beat&Groove",
+            "tone_no": "837"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "04"
+          }
+        },
+        {
+          "patch_no": "28-2",
+          "patch_name": "HOUSE FIRE",
+          "pcm_tone1": {
+            "category": "Beat&Groove",
+            "tone_no": "838"
+          },
+          "pcm_tone2": {
+            "category": "Pulsating",
+            "tone_no": "822"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "28-3",
+          "patch_name": "Trance Groove",
+          "pcm_tone1": {
+            "category": "Beat&Groove",
+            "tone_no": "831"
+          },
+          "pcm_tone2": {
+            "category": "Synth PolyKey",
+            "tone_no": "713"
+          },
+          "modeling_tone": {
+            "category": "E.GTR",
+            "tone_no": "03"
+          }
+        },
+        {
+          "patch_no": "29-1",
+          "patch_name": "RAINSTORM",
+          "pcm_tone1": {
+            "category": "Sound FX",
+            "tone_no": "850"
+          },
+          "pcm_tone2": {
+            "category": "Sound FX",
+            "tone_no": "849"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "29-2",
+          "patch_name": "Scary Scream",
+          "pcm_tone1": {
+            "category": "Sound FX",
+            "tone_no": "860"
+          },
+          "pcm_tone2": {
+            "category": "Sound FX",
+            "tone_no": "876"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "29-3",
+          "patch_name": "COMEDIAN",
+          "pcm_tone1": {
+            "category": "Sound FX",
+            "tone_no": "875"
+          },
+          "pcm_tone2": {
+            "category": "Sound FX",
+            "tone_no": "874"
+          },
+          "modeling_tone": {
+            "category": null,
+            "tone_no": null
+          }
+        },
+        {
+          "patch_no": "30-1",
+          "patch_name": "for Normal PU O1",
+          "pcm_tone1": {
+            "category": "Mallet",
+            "tone_no": "143"
+          },
+          "pcm_tone2": {
+            "category": "E.Piano2",
+            "tone_no": "054"
+          },
+          "modeling_tone": {
+            "category": "AC",
+            "tone_no": "13"
+          }
+        },
+        {
+          "patch_no": "30-2",
+          "patch_name": "for Normal PU O2",
+          "pcm_tone1": {
+            "category": "Synth Lead",
+            "tone_no": "553"
+          },
+          "pcm_tone2": {
+            "category": "Beat&Groove",
+            "tone_no": "832"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "20"
+          }
+        },
+        {
+          "patch_no": "30-3",
+          "patch_name": "for Normal PU O3",
+          "pcm_tone1": {
+            "category": "Synth FX",
+            "tone_no": "783"
+          },
+          "pcm_tone2": {
+            "category": "Orchestral",
+            "tone_no": "367"
+          },
+          "modeling_tone": {
+            "category": "SYNTH",
+            "tone_no": "18"
+          }
+        }
+      ]
+    }
+  ]
+}
